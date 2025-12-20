@@ -1,0 +1,91 @@
+.logo-image {
+    height:70px;
+    width:60px;
+}
+
+.bg-container {
+    background-image: Url("https://res.cloudinary.com/diaut5dvo/image/upload/v1754231891/revenge_shopping_nwnuki.jpg");
+    text-align: center;
+    height:100vh;
+    
+    
+}
+
+.Meesho-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+}
+.img{
+    width:200px;
+    height:200px;
+    text-align: center;
+}
+.button {
+    color: white;
+    background-color: #25b1cc;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.main-heading {
+    font-family:"Roboto";
+}
+
+.paragraph {
+    font-family:"Roboto";
+}
+
+.shopping-bg-container {
+    background-image: url("https://assets.onecompiler.app/438f54w8k/43jdeehrj/1000080309.jpg");
+    height: 100%;
+    background-size: cover;
+    padding: 24px;
+}
+
+.shopping-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.shopping-card-container {
+    background-color: #faf2f6;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.shopping-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.shopping-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.shopping-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+.shopping-card-text-container {
+    margin-right: 15px;
+}
+
+.details-page-card{
+    background-color: silver;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 20px;
+}
